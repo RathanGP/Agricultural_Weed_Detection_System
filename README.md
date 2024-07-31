@@ -4,8 +4,6 @@ we made the crop and weed detection model using YOLOV3 on agricultural image dat
 
 
 
-![](https://github.com/RathanGP/Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg?raw=true)
-
 ![](https://github.com/RathanGP/Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg)
 
 
