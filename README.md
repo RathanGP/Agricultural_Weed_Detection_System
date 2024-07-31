@@ -20,7 +20,7 @@ DataSet taken from kaggle
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3745280%2Fc4e147d01af2667a293c3ff1caac6a85%2Fimage_21.jpeg?generation=1589439187082625&alt=media)
 
 
-
+https://github.com/RathanGP/Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg
   
  
 
