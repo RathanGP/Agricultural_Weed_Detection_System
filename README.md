@@ -1,6 +1,6 @@
 # Agricultural_weed_detection_System
 we made the crop and weed detection model using YOLOV3 on agricultural image data.
-![](https://github.com/RathanGP/Weed_Detection_System/blob/master/performing_detection/data/detection/detection.jpg)
+![](https://github.com/RathanGP/Weed_Detection_System/blob/main/performing_detection/data/detection/detection.jpg)
 
 
 
