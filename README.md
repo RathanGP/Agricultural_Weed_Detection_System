@@ -1,4 +1,4 @@
-# Crop_and_weed_detection
+# Agricultural_weed_detection_System
 we made the crop and weed detection model using YOLOV3 on agricultural image data.
 
 # Problem
