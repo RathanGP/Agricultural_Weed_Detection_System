@@ -1,10 +1,10 @@
 # Agricultural_weed_detection_System
 we made the crop and weed detection model using YOLOV3 on agricultural image data.
-![](https://github.com/ravirajsinh45/Crop_and_weed_detection/blob/master/performing_detection/data/detection/detection.jpg)
+![](https://github.com/RathanGP/Weed_Detection_System/blob/master/performing_detection/data/detection/detection.jpg)
 
 
 
-![](https://github.com/ravirajsinh45/Crop_and_weed_detection/blob/master/performing_detection/data/detection/detection_1.jpeg)
+![](https://github.com/RathanGP/Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg?raw=true)
 
 
 # Problem
@@ -24,7 +24,7 @@ DataSet taken from kaggle
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3745280%2F223e1ae1bc2b2d976ccf79685bb5ef24%2Fimage_359.jpeg?generation=1589439154681622&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3745280%2Fec12dbafbf4b5b6e1b46cc1a47e95147%2Fimage_528.jpeg?generation=1589439166010189&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3745280%2Fc4e147d01af2667a293c3ff1caac6a85%2Fimage_21.jpeg?generation=1589439187082625&alt=media)
-![](https://github.com/RathanGP/Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg?raw=true)
+
 
 https://github.com/RathanGP/Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg
   
