@@ -6,6 +6,8 @@ we made the crop and weed detection model using YOLOV3 on agricultural image dat
 
 ![](https://github.com/RathanGP/Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg?raw=true)
 
+![](https://github.com/RathanGP/Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg)
+
 
 # Problem
 Weed is unwanted thing in agriculture. Weed use the nutrients, water ,land and many more thihngs that might have gone to crops.Which result less production of required crop.Farmer often use pesticides to remove weed which also affective but some pesticide may stick with crop and may cause problem for humans.
@@ -26,7 +28,6 @@ DataSet taken from kaggle
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3745280%2Fc4e147d01af2667a293c3ff1caac6a85%2Fimage_21.jpeg?generation=1589439187082625&alt=media)
 
 
-https://github.com/RathanGP/Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg
   
  
 
