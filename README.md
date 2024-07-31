@@ -46,7 +46,7 @@ Data on https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-b
 
     * Now open Anaconda Prompt and clone this repo
    ```
-   (base) C:\Users\user> git clone https://github.com/ravirajsinh45/Crop_and_weed_detection.git
+   (base) C:\Users\user> git clone https://github.com/RathanGP/Weed_Detection_System.git
     ```  
      - (Optional) If you get any error like **git is not recogize internal command** than run below command
           ```
