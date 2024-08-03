@@ -1,11 +1,8 @@
 # Agricultural weed detection System
 we made the crop and weed detection model using YOLOV3 on agricultural image data.
-![](https://github.com/RathanGP/Agricultural_weed_detection_System/blob/main/performing_detection/data/detection/detection.jpg)
 
-
-
-![](https://github.com/RathanGP/Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg)
-
+![](https://github.com/RathanGP/Agricultural_Weed_Detection_System/blob/main/performing_detection/data/detection/detection.jpg)
+![](https://github.com/RathanGP/Agricultural_Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg)
 
 # Problem
 Weed is unwanted thing in agriculture. Weed use the nutrients, water ,land and many more thihngs that might have gone to crops.Which result less production of required crop.Farmer often use pesticides to remove weed which also affective but some pesticide may stick with crop and may cause problem for humans.
