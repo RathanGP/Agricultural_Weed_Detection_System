@@ -30,13 +30,4 @@ DataSet taken from kaggle
  
 
 
-          
   
-
-
-  
-
-
-
-
-
