@@ -20,7 +20,7 @@ DataSet taken from kaggle
 ### weed
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3745280%2F223e1ae1bc2b2d976ccf79685bb5ef24%2Fimage_359.jpeg?generation=1589439154681622&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3745280%2Fec12dbafbf4b5b6e1b46cc1a47e95147%2Fimage_528.jpeg?generation=1589439166010189&alt=media)
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3745280%2Fc4e147d01af2667a293c3ff1caac6a85%2Fimage_21.jpeg?generation=1589439187082625&alt=media)
+
 
 
   
