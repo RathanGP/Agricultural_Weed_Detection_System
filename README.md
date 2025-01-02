@@ -5,8 +5,8 @@ GitHub Markdown does not directly support resizing images within the Markdown sy
 # **Agricultural Weed Detection System**  
 We made the crop and weed detection model using YOLOV3 on agricultural image data.
 
-<img src="https://github.com/RathanGP/Agricultural_Weed_Detection_System/blob/main/performing_detection/data/detection/detection.jpg" alt="Detection" width="30" height="30">
-<img src="https://github.com/RathanGP/Agricultural_Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg" alt="Detection 1" width="30" height="30">
+<img src="https://github.com/RathanGP/Agricultural_Weed_Detection_System/blob/main/performing_detection/data/detection/detection.jpg" alt="Detection" width="60" height="60">
+<img src="https://github.com/RathanGP/Agricultural_Weed_Detection_System/blob/main/performing_detection/data/detection/detection_1.jpeg" alt="Detection 1" width="60" height="60">
 
 ---
 
